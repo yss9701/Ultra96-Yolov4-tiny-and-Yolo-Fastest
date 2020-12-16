@@ -15,7 +15,9 @@
 
 8. The last, we can run our model on Ultra96-v2 board. There is an example that using yolo model to detate vehicles. This is the result, the fps is 25 with 320*320 images.
 
-   
+   ![Alt text] (https://github.com/yss9701/Ultra96-Yolov4-tiny/tree/main/img/1.png)
+
+   ![Alt text] (https://github.com/yss9701/Ultra96-Yolov4-tiny/tree/main/img/2.png)
 
    
 
@@ -30,6 +32,6 @@
    https://github.com/Xilinx/Vitis-AI/blob/v1.1/mpsoc/vitis_ai_dnndk_samples/tf_yolov3_voc_py/tf_yolov3_voc.py
 
    https://blog.csdn.net/weixin_38106878/article/details/88684280?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.control
-
+   
    https://www.xilinx.com/html_docs/vitis_ai/1_1/zkj1576857115470.html
 
