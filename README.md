@@ -15,9 +15,9 @@
 
 8. The last, we can run our model on Ultra96-v2 board. There is an example that using yolo model to detate vehicles (./edge/dpu_yolo_v4_tiny.ipynb). There are the results, the fps is 25 with 320*320 images.
 
-   ![Alt text] (https://github.com/yss9701/Ultra96-Yolov4-tiny/tree/main/img/1.png)
+   ![1](https://github.com/yss9701/Ultra96-Yolov4-tiny/raw/main/img/1.png)
 
-   ![Alt text] (https://github.com/yss9701/Ultra96-Yolov4-tiny/tree/main/img/2.png)
+   ![2](https://github.com/yss9701/Ultra96-Yolov4-tiny/raw/main/img/2.png)
 
 9. In order to achieve faster detection speed, I try to use Yolo-Fastest ([Yolo-Fastest](https://github.com/dog-qiuqiu/Yolo-Fastest)) and implement it with tensorflow, then deploy it to Ultra96-v2 board. There are the results, it can achieve 30fps+.
 
