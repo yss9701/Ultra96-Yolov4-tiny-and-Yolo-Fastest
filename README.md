@@ -21,9 +21,9 @@
 
 9. In order to achieve faster detection speed, I try to use Yolo-Fastest ([Yolo-Fastest](https://github.com/dog-qiuqiu/Yolo-Fastest)) and implement it with tensorflow, then deploy it to Ultra96-v2 board. There are the results, it can achieve 30fps+.
 
-   ![3] (https://github.com/yss9701/Ultra96-Yolov4-tiny/raw/main/img/3.png)
+   ![3](https://github.com/yss9701/Ultra96-Yolov4-tiny/raw/main/img/3.png)
 
-   ![4] (https://github.com/yss9701/Ultra96-Yolov4-tiny/raw/main/img/4.png)
+   ![4](https://github.com/yss9701/Ultra96-Yolov4-tiny/raw/main/img/4.png)
 
    
 
